@@ -51,7 +51,7 @@
     "url": "0.10.3",
     "util": "^0.12.4",
     "uuid": "8.0.0",
-    "xml2js": "0.4.19"
+    "xml2js": "0.4.23"
   },
   "main": "lib/aws.js",
   "browser": {
